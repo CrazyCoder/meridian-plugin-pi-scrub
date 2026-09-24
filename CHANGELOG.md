@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/rynfar/meridian-plugin-pi-scrub/compare/meridian-plugin-pi-scrub-v0.2.1...meridian-plugin-pi-scrub-v0.2.2) (2026-09-24)
+
+
+### Bug Fixes
+
+* report pi scrub package version ([#11](https://github.com/rynfar/meridian-plugin-pi-scrub/issues/11)) ([a6f1b3e](https://github.com/rynfar/meridian-plugin-pi-scrub/commit/a6f1b3e7407a2651da566eb9937fc7a75b751048))
+
 ## [0.2.1](https://github.com/rynfar/meridian-plugin-pi-scrub/compare/meridian-plugin-pi-scrub-v0.2.0...meridian-plugin-pi-scrub-v0.2.1) (2026-09-24)
 
 
