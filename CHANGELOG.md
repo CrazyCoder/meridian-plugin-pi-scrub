@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/rynfar/meridian-plugin-pi-scrub/compare/meridian-plugin-pi-scrub-v0.2.0...meridian-plugin-pi-scrub-v0.2.1) (2026-09-24)
+
+
+### Bug Fixes
+
+* preserve foreign prompts in pi scrub ([54e0706](https://github.com/rynfar/meridian-plugin-pi-scrub/commit/54e0706aec9d27baeedda8a016072111517df127))
+* scrub pi fingerprints on all adapters (content-scoped) ([#4](https://github.com/rynfar/meridian-plugin-pi-scrub/issues/4)) ([65fe302](https://github.com/rynfar/meridian-plugin-pi-scrub/commit/65fe302e570044f6f115805d82b619277a8e538f))
+* validate optional Meridian dispatch condition ([#9](https://github.com/rynfar/meridian-plugin-pi-scrub/issues/9)) ([cda7743](https://github.com/rynfar/meridian-plugin-pi-scrub/commit/cda7743a3d483e339871c4918ce52c3cf4ba1641))
+
 ## [0.2.0](https://github.com/rynfar/meridian-plugin-pi-scrub/compare/meridian-plugin-pi-scrub-v0.1.0...meridian-plugin-pi-scrub-v0.2.0) (2026-04-26)
 
 
